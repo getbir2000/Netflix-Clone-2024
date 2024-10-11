@@ -1,0 +1,22 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wdth,wght@1,75,300..700&family=Open+Sans:ital,wdth,wght@1,100,300..700&display=swap');
+
+:root{
+
+  --font-base: 'Open', san-serif;
+  --font-second-base: 'sans', san-serif;
+  --bg-color: #111;
+  --primary-color:#ffffff;
+  --secondary-color:#e50940;
+
+}
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  body {
+    background: #111;
+  }
+
